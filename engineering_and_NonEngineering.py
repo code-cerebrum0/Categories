@@ -484,178 +484,527 @@ categories = {
                 ]
             }
         },
-        "Computer/Software Engineering": {
-            "Algorithms and Data Structures": {
-                "Algorithm Design": [
-                    "Divide and Conquer",
-                    "Greedy Algorithms",
-                    "Dynamic Programming"
-                ],
-                "Data Structures": [
-                    "Arrays and Linked Lists",
-                    "Trees and Graphs",
-                    "Hash Tables"
-                ],
-                "Complexity Analysis": [
-                    "Time Complexity",
-                    "Space Complexity",
-                    "Asymptotic Analysis"
-                ]
-            },
-            "Software Engineering": {
-                "Software Development Methodologies": [
-                    "Agile Methodologies",
-                    "Waterfall Model",
-                    "DevOps Practices"
-                ],
-                "Software Design": [
-                    "Object-Oriented Design",
-                    "Design Patterns",
-                    "Software Architecture"
-                ],
-                "Software Testing": [
-                    "Unit Testing",
-                    "Integration Testing",
-                    "Automated Testing"
-                ]
-            },
-            "Systems Programming": {
-                "Operating Systems": [
-                    "Process Management",
-                    "Memory Management",
-                    "File Systems"
-                ],
-                "Compilers and Interpreters": [
-                    "Lexical Analysis",
-                    "Syntax Analysis",
-                    "Code Optimization"
-                ],
-                "System Performance": [
-                    "Resource Allocation",
-                    "System Benchmarking",
-                    "Virtualization"
-                ]
-            },
-            "Computer Architecture": {
-                "Processor Design": [
-                    "Instruction Set Architecture",
-                    "Pipelining",
-                    "Cache Memory"
-                ],
-                "Parallel Computing": [
-                    "Multi-Core Processors",
-                    "GPU Computing",
-                    "Parallel Algorithms"
-                ],
-                "Embedded Systems": [
-                    "Microcontroller Programming",
-                    "Real-Time Systems",
-                    "IoT Device Design"
-                ]
-            },
-            "Networking and Distributed Systems": {
-                "Network Protocols": [
-                    "TCP/IP Stack",
-                    "Routing Protocols",
-                    "Network Security Protocols"
-                ],
-                "Distributed Computing": [
-                    "Cloud Computing",
-                    "Distributed Databases",
-                    "Consensus Algorithms"
-                ],
-                "Network Performance": [
-                    "Bandwidth Optimization",
-                    "Latency Reduction",
-                    "Quality of Service"
-                ]
-            },
-            "Artificial Intelligence": {
-                "Machine Learning": [
-                    "Supervised Learning",
-                    "Unsupervised Learning",
-                    "Reinforcement Learning"
-                ],
-                "Knowledge Representation and Reasoning": [
-                    "Expert Systems",
-                    "Ontologies",
-                    "Logical Inference"
-                ],
-                "Natural Language Processing": [
-                    "Text Processing",
-                    "Sentiment Analysis",
-                    "Machine Translation"
-                ]
-            },
-            "Computer Vision and Graphics": {
-                "Computer Vision": [
-                    "Image Recognition",
-                    "Object Detection",
-                    "Video Analysis"
-                ],
-                "Computer Graphics": [
-                    "Rendering Techniques",
-                    "3D Modeling",
-                    "Animation Systems"
-                ],
-                "Visualization": [
-                    "Data Visualization",
-                    "Scientific Visualization",
-                    "Visual Analytics"
-                ]
-            },
-            "Databases and Information Systems": {
-                "Database Design": [
-                    "Relational Databases",
-                    "NoSQL Databases",
-                    "Database Normalization"
-                ],
-                "Data Management": [
-                    "Query Optimization",
-                    "Data Indexing",
-                    "Transaction Management"
-                ],
-                "Big Data Technologies": [
-                    "Data Warehousing",
-                    "Data Mining",
-                    "Distributed Data Processing"
-                ]
-            },
-            "Security and Cryptography": {
-                "Cybersecurity": [
-                    "Intrusion Detection",
-                    "Malware Analysis",
-                    "Network Security"
-                ],
-                "Cryptography": [
-                    "Symmetric Encryption",
-                    "Asymmetric Encryption",
-                    "Hash Functions"
-                ],
-                "Secure Systems Design": [
-                    "Secure Software Design",
-                    "Authentication Systems",
-                    "Access Control"
-                ]
-            },
-            "Human-Computer Interaction": {
-                "User Interface Design": [
-                    "Graphical User Interfaces",
-                    "Web Interfaces",
-                    "Mobile Interfaces"
-                ],
-                "Usability Engineering": [
-                    "User Experience Testing",
-                    "Accessibility Design",
-                    "Human Factors"
-                ],
-                "Interaction Technologies": [
-                    "Virtual Reality",
-                    "Augmented Reality",
-                    "Haptic Interfaces"
-                ]
-            }
-        },
+        Computer_Science_and_Engineering": {
+    "Algorithms and Data Structures": {
+        "Algorithm Design": [
+            "Divide and Conquer",
+            "Greedy Algorithms",
+            "Dynamic Programming"
+        ],
+        "Data Structures": [
+            "Arrays and Linked Lists",
+            "Trees and Graphs",
+            "Hash Tables"
+        ],
+        "Complexity Analysis": [
+            "Time Complexity",
+            "Space Complexity",
+            "Asymptotic Analysis"
+        ]
+    },
+    "Software Engineering": {
+        "Software Development Methodologies": [
+            "Agile Methodologies",
+            "Waterfall Model",
+            "DevOps Practices"
+        ],
+        "Software Design": [
+            "Object-Oriented Design",
+            "Design Patterns",
+            "Software Architecture"
+        ],
+        "Software Testing": [
+            "Unit Testing",
+            "Integration Testing",
+            "Automated Testing"
+        ]
+    },
+    "Systems Programming": {
+        "Operating Systems": [
+            "Process Management",
+            "Memory Management", 
+            "File Systems"
+        ],
+        "Compilers and Interpreters": [
+            "Lexical Analysis",
+            "Syntax Analysis",
+            "Code Optimization"
+        ],
+        "System Performance": [
+            "Resource Allocation",
+            "System Benchmarking",
+            "Virtualization"
+        ]
+    },
+    "Computer Architecture": {
+        "Processor Design": [
+            "Instruction Set Architecture",
+            "Pipelining",
+            "Cache Memory"
+        ],
+        "Parallel Computing": [
+            "Multi-Core Processors",
+            "GPU Computing",
+            "Parallel Algorithms"
+        ],
+        "Embedded Systems": [
+            "Microcontroller Programming",
+            "Real-Time Systems",
+            "IoT Device Design"
+        ]
+    },
+    "Networking and Distributed Systems": {
+        "Network Protocols": [
+            "TCP/IP Stack",
+            "Routing Protocols",
+            "Network Security Protocols"
+        ],
+        "Distributed Computing": [
+            "Cloud Computing",
+            "Distributed Databases",
+            "Consensus Algorithms"
+        ],
+        "Network Performance": [
+            "Bandwidth Optimization",
+            "Latency Reduction",
+            "Quality of Service"
+        ]
+    },
+    "Artificial Intelligence": {
+        "Machine Learning": [
+            "Supervised Learning",
+            "Unsupervised Learning",
+            "Reinforcement Learning"
+        ],
+        "Knowledge Representation and Reasoning": [
+            "Expert Systems",
+            "Ontologies",
+            "Logical Inference"
+        ],
+        "Natural Language Processing": [
+            "Text Processing",
+            "Sentiment Analysis",
+            "Machine Translation"
+        ]
+    },
+    "Computer Vision and Graphics": {
+        "Computer Vision": [
+            "Image Recognition",
+            "Object Detection",
+            "Video Analysis"
+        ],
+        "Computer Graphics": [
+            "Rendering Techniques",
+            "3D Modeling",
+            "Animation Systems"
+        ],
+        "Visualization": [
+            "Data Visualization",
+            "Scientific Visualization",
+            "Visual Analytics"
+        ]
+    },
+    "Databases and Information Systems": {
+        "Database Design": [
+            "Relational Databases",
+            "NoSQL Databases",
+            "Database Normalization"
+        ],
+        "Data Management": [
+            "Query Optimization",
+            "Data Indexing",
+            "Transaction Management"
+        ],
+        "Big Data Technologies": [
+            "Data Warehousing",
+            "Data Mining",
+            "Distributed Data Processing"
+        ]
+    },
+    "Security and Cryptography": {
+        "Cybersecurity": [
+            "Intrusion Detection",
+            "Malware Analysis",
+            "Network Security"
+        ],
+        "Cryptography": [
+            "Symmetric Encryption",
+            "Asymmetric Encryption",
+            "Hash Functions"
+        ],
+        "Secure Systems Design": [
+            "Secure Software Design",
+            "Authentication Systems",
+            "Access Control"
+        ]
+    },
+    "Human-Computer Interaction": {
+        "User Interface Design": [
+            "Graphical User Interfaces",
+            "Web Interfaces",
+            "Mobile Interfaces"
+        ],
+        "Usability Engineering": [
+            "User Experience Testing",
+            "Accessibility Design",
+            "Human Factors"
+        ],
+        "Interaction Technologies": [
+            "Virtual Reality",
+            "Augmented Reality",
+            "Haptic Interfaces"
+        ]
+    },
+    "Programming": {
+        "Python": [
+            "Basics and Syntax",
+            "Data Types and Structures",
+            "Control Flow",
+            "Functions and Modules",
+            "Object-Oriented Features",
+            "Libraries and Frameworks",
+            "Applications and Use Cases"
+        ],
+        "Java": [
+            "Basics and Syntax",
+            "Data Types and Structures",
+            "Control Flow",
+            "Functions and Modules",
+            "Object-Oriented Features",
+            "Libraries and Frameworks",
+            "Applications and Use Cases"
+        ],
+        "JavaScript": [
+            "Basics and Syntax",
+            "Data Types and Structures",
+            "Control Flow",
+            "Functions and Modules",
+            "Object-Oriented Features",
+            "Libraries and Frameworks",
+            "Applications and Use Cases"
+        ],
+        "C++": [
+            "Basics and Syntax",
+            "Data Types and Structures",
+            "Control Flow",
+            "Functions and Modules",
+            "Object-Oriented Features",
+            "Libraries and Frameworks",
+            "Applications and Use Cases"
+        ],
+        "C#": [
+            "Basics and Syntax",
+            "Data Types and Structures",
+            "Control Flow",
+            "Functions and Modules",
+            "Object-Oriented Features",
+            "Libraries and Frameworks",
+            "Applications and Use Cases"
+        ],
+        "SQL": [
+            "Basics and Syntax",
+            "Data Types and Structures",
+            "Control Flow",
+            "Functions and Modules",
+            "Object-Oriented Features",
+            "Libraries and Frameworks",
+            "Applications and Use Cases"
+        ],
+        "TypeScript": [
+            "Basics and Syntax",
+            "Data Types and Structures",
+            "Control Flow",
+            "Functions and Modules",
+            "Object-Oriented Features",
+            "Libraries and Frameworks",
+            "Applications and Use Cases"
+        ],
+        "Go": [
+            "Basics and Syntax",
+            "Data Types and Structures",
+            "Control Flow",
+            "Functions and Modules",
+            "Object-Oriented Features",
+            "Libraries and Frameworks",
+            "Applications and Use Cases"
+        ],
+        "Rust": [
+            "Basics and Syntax",
+            "Data Types and Structures",
+            "Control Flow",
+            "Functions and Modules",
+            "Object-Oriented Features",
+            "Libraries and Frameworks",
+            "Applications and Use Cases"
+        ],
+        "PHP": [
+            "Basics and Syntax",
+            "Data Types and Structures",
+            "Control Flow",
+            "Functions and Modules",
+            "Object-Oriented Features",
+            "Libraries and Frameworks",
+            "Applications and Use Cases"
+        ],
+        "R": [
+            "Basics and Syntax",
+            "Data Types and Structures",
+            "Control Flow",
+            "Functions and Modules",
+            "Object-Oriented Features",
+            "Libraries and Frameworks",
+            "Applications and Use Cases"
+        ],
+        "Swift": [
+            "Basics and Syntax",
+            "Data Types and Structures",
+            "Control Flow",
+            "Functions and Modules",
+            "Object-Oriented Features",
+            "Libraries and Frameworks",
+            "Applications and Use Cases"
+        ],
+        "Kotlin": [
+            "Basics and Syntax",
+            "Data Types and Structures",
+            "Control Flow",
+            "Functions and Modules",
+            "Object-Oriented Features",
+            "Libraries and Frameworks",
+            "Applications and Use Cases"
+        ],
+        "Ruby": [
+            "Basics and Syntax",
+            "Data Types and Structures",
+            "Control Flow",
+            "Functions and Modules",
+            "Object-Oriented Features",
+            "Libraries and Frameworks",
+            "Applications and Use Cases"
+        ],
+        "Scala": [
+            "Basics and Syntax",
+            "Data Types and Structures",
+            "Control Flow",
+            "Functions and Modules",
+            "Object-Oriented Features",
+            "Libraries and Frameworks",
+            "Applications and Use Cases"
+        ],
+        "MATLAB": [
+            "Basics and Syntax",
+            "Data Types and Structures",
+            "Control Flow",
+            "Functions and Modules",
+            "Object-Oriented Features",
+            "Libraries and Frameworks",
+            "Applications and Use Cases"
+        ],
+        "Dart": [
+            "Basics and Syntax",
+            "Data Types and Structures",
+            "Control Flow",
+            "Functions and Modules",
+            "Object-Oriented Features",
+            "Libraries and Frameworks",
+            "Applications and Use Cases"
+        ],
+        "Julia": [
+            "Basics and Syntax",
+            "Data Types and Structures",
+            "Control Flow",
+            "Functions and Modules",
+            "Object-Oriented Features",
+            "Libraries and Frameworks",
+            "Applications and Use Cases"
+        ],
+        "Bash": [
+            "Basics and Syntax",
+            "Data Types and Structures",
+            "Control Flow",
+            "Functions and Modules",
+            "Object-Oriented Features",
+            "Libraries and Frameworks",
+            "Applications and Use Cases"
+        ],
+        "Assembly": [
+            "Basics and Syntax",
+            "Data Types and Structures",
+            "Control Flow",
+            "Functions and Modules",
+            "Object-Oriented Features",
+            "Libraries and Frameworks",
+            "Applications and Use Cases"
+        ]
+    },
+    "Development": {
+        "Web Development": [
+            "Front-end Development",
+            "Back-end Development",
+            "Full-stack Development",
+            "Frameworks (React, Angular, Vue)",
+            "APIs and Microservices"
+        ],
+        "Mobile Development": [
+            "Android Development",
+            "iOS Development",
+            "Cross-platform Development",
+            "Frameworks (Flutter, React Native)",
+            "App Deployment"
+        ],
+        "Game Development": [
+            "2D Games",
+            "3D Games",
+            "Game Engines (Unity, Unreal)",
+            "Physics and Animation",
+            "Multiplayer Features"
+        ],
+        "Desktop Development": [
+            "GUI Applications",
+            "Command-Line Tools",
+            "Frameworks (Electron, WPF)",
+            "Cross-platform Tools"
+        ]
+    },
+    "Cybersecurity": {
+        "Threat Detection": [
+            "Intrusion Detection Systems",
+            "Malware Detection",
+            "Vulnerability Scanning"
+        ],
+        "Security Practices": [
+            "Secure Coding",
+            "Access Control Models",
+            "Incident Response"
+        ],
+        "Tools and Technologies": [
+            "Firewalls",
+            "Encryption Tools",
+            "Security Information and Event Management (SIEM)"
+        ]
+    },
+    "AI/ML": {
+        "Artificial Intelligence Fundamentals": [
+            "AI Ethics",
+            "AI Algorithms",
+            "Expert Systems"
+        ],
+        "Machine Learning Techniques": [
+            "Deep Learning",
+            "Neural Networks",
+            "Model Evaluation"
+        ],
+        "Applications": [
+            "Computer Vision",
+            "Natural Language Processing",
+            "Robotics AI"
+        ]
+    },
+    "Blockchain": {
+        "Fundamentals": [
+            "Distributed Ledger Technology",
+            "Consensus Mechanisms",
+            "Smart Contracts"
+        ],
+        "Technologies": [
+            "Bitcoin",
+            "Ethereum",
+            "Hyperledger"
+        ],
+        "Applications": [
+            "Cryptocurrencies",
+            "Supply Chain Management",
+            "Decentralized Finance (DeFi)"
+        ]
+    },
+    "Quantum Computing": {
+        "Basics": [
+            "Qubits and Superposition",
+            "Entanglement",
+            "Quantum Gates"
+        ],
+        "Algorithms": [
+            "Shor's Algorithm",
+            "Grover's Algorithm",
+            "Quantum Machine Learning"
+        ],
+        "Hardware and Applications": [
+            "Quantum Hardware",
+            "Quantum Cryptography",
+            "Quantum Simulation"
+        ]
+    },
+    "DevOps": {
+        "Practices": [
+            "Continuous Integration (CI)",
+            "Continuous Deployment (CD)",
+            "Infrastructure as Code (IaC)"
+        ],
+        "Tools": [
+            "Jenkins",
+            "Docker",
+            "Kubernetes",
+            "Ansible"
+        ],
+        "Monitoring and Collaboration": [
+            "Monitoring Tools (Prometheus, Grafana)",
+            "Collaboration Practices",
+            "Security in DevOps (DevSecOps)"
+        ]
+    },
+    "DSA": {
+        "Algorithms": [
+            "Sorting Algorithms",
+            "Searching Algorithms",
+            "Graph Algorithms"
+        ],
+        "Data Structures": [
+            "Stacks and Queues",
+            "Linked Lists",
+            "Heaps and Priority Queues"
+        ],
+        "Advanced Topics": [
+            "Dynamic Programming",
+            "Greedy Methods",
+            "Divide and Conquer"
+        ]
+    },
+    "Data Science": {
+        "Data Processing": [
+            "Data Cleaning",
+            "Data Transformation",
+            "Exploratory Data Analysis"
+        ],
+        "Modeling": [
+            "Statistical Modeling",
+            "Machine Learning Models",
+            "Feature Engineering"
+        ],
+        "Tools and Visualization": [
+            "Python (Pandas, Scikit-learn)",
+            "R",
+            "Data Visualization (Matplotlib, Seaborn)"
+        ]
+    },
+    "Data Analytics": {
+        "Descriptive Analytics": [
+            "Data Summarization",
+            "Reporting",
+            "Dashboards"
+        ],
+        "Predictive and Prescriptive Analytics": [
+            "Forecasting Models",
+            "Optimization Techniques",
+            "Business Intelligence"
+        ],
+        "Tools": [
+            "Excel",
+            "Tableau",
+            "Power BI",
+            "SQL for Analytics"
+        ]
+    }
+},
         "Aerospace Engineering": {
             "Aerodynamics": {
                 "Fluid Dynamics": [
@@ -1476,7 +1825,7 @@ categories = {
             "Film and Media Production": ["Cinematography", "Scriptwriting", "Post-Production"],
             "Digital Media": ["Social Media Strategy", "Content Creation", "Media Analytics"]
         },
-        "Sports and Exercise Science": {
+        "Sports and Exercise": {
             "Indoor Sports": [
                 "Basketball", "Volleyball", "Badminton", "Table Tennis", "Gymnastics", "Boxing",
                 "Wrestling", "Fencing", "Swimming", "Diving", "Squash", "Billiards", "Bowling",
