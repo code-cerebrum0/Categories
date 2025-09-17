@@ -1,0 +1,302 @@
+- Engineering Disciplines
+  - Civil Engineering
+    - Structural Engineering
+    - Geotechnical Engineering
+    - Transportation Engineering
+    - Water Resources Engineering
+    - Environmental Engineering
+    - Construction Engineering
+  - Mechanical Engineering
+    - Mechanics
+    - Thermodynamics
+    - Fluid Mechanics
+    - Machine Design
+    - Robotics and Automation
+    - Manufacturing and Materials
+    - Energy and Power Systems
+    - Biomechanics
+  - Electrical Engineering
+    - Power Engineering
+    - Electronics Engineering
+    - Control Systems Engineering
+    - Telecommunications Engineering
+    - Signal Processing
+    - Electromagnetics
+    - Instrumentation and Measurement
+  - Chemical Engineering
+    - Process Engineering
+    - Reaction Engineering
+    - Separation Processes
+    - Transport Phenomena
+    - Biochemical Engineering
+    - Materials Engineering
+    - Environmental and Safety Engineering
+  - Computer/Software Engineering
+    - Algorithms and Data Structures
+    - Software Engineering
+    - Systems Programming
+    - Computer Architecture
+    - Networking and Distributed Systems
+    - Artificial Intelligence
+    - Computer Vision and Graphics
+    - Databases and Information Systems
+    - Security and Cryptography
+    - Human-Computer Interaction
+    - Programming
+    - Development
+    - DevOps
+    - Blockchain
+    - Quantum Computing
+    - Data Science
+    - Data Analytics
+  - Aerospace Engineering
+    - Aerodynamics
+    - Propulsion Systems
+    - Structural Mechanics
+    - Flight Dynamics and Control
+    - Avionics and Systems Engineering
+    - Space Systems Engineering
+    - Aerospace Manufacturing and Testing
+    - Aerospace Safety and Regulations
+    - Aeroelasticity and Structural Dynamics
+    - Computational Engineering
+  - Biomedical Engineering
+    - Biomedical Imaging
+    - Biomaterials
+    - Biomechanics
+    - Medical Devices
+    - Tissue Engineering and Regenerative Medicine
+    - Bioinstrumentation
+    - Neural Engineering
+    - Clinical Engineering
+  - Industrial/Manufacturing Engineering
+    - Production Systems
+    - Operations Research
+    - Quality Engineering
+    - Supply Chain and Logistics
+    - Industrial Systems Design
+    - Manufacturing Materials and Processes
+    - Industrial Data Science and Analytics
+    - Sustainability and Environmental Engineering
+  - Materials Engineering
+    - Materials Synthesis and Processing
+    - Materials Characterization
+    - Metallurgical Engineering
+    - Polymer Engineering
+    - Ceramics and Composites
+    - Nanomaterials and Nanotechnology
+    - Functional Materials
+    - Materials Sustainability
+  - Environmental Engineering
+    - Water Resources and Treatment
+    - Air Quality Engineering
+    - Solid and Hazardous Waste Management
+    - Environmental Systems Modeling
+    - Sustainable Design and Engineering
+    - Environmental Biotechnology
+    - Environmental Policy and Regulation
+  - Emerging Engineering
+    - Nanotechnology Engineering
+    - Quantum Engineering
+- Non-Engineering Disciplines
+	-Medical Sciences
+		Basic Medical Sciences
+			Anatomy
+			Physiology
+			Biochemistry
+			Microbiology
+			Pathology
+			Genetics
+
+
+		Clinical Medicine
+			Internal Medicine
+			Pediatrics
+			Neurology
+			Psychiatry
+			Dermatology
+			Emergency Medicine
+			Family Medicine
+
+
+		Surgical Specialties
+			General Surgery
+			Cardiothoracic Surgery
+			Neurosurgery
+			Orthopedic Surgery
+			Obstetrics and Gynecology
+			Otolaryngology (ENT)
+			Urology
+			Plastic Surgery
+
+
+		Preventive Medicine
+			Aerospace Medicine
+			Occupational Medicine
+			Public Health and General Preventive Medicine
+			Primary Prevention
+			Secondary Prevention
+			Tertiary Prevention
+
+
+		Public Health
+			Epidemiology
+			Health Policy and Management
+			Environmental Health
+			Community Health
+			Global Health
+			Behavioral Health
+			Health Education and Communication
+
+
+		Pharmacology and Pharmacy
+			Pharmacokinetics
+			Pharmacodynamics
+			Clinical Pharmacology
+			Toxicology
+			Pharmacognosy
+			Pharmacy Practice
+			Pharmaceutical Sciences
+
+
+		Dentistry
+			Endodontics
+			Orthodontics
+			Periodontics
+			Prosthodontics
+			Oral and Maxillofacial Surgery
+			Pediatric Dentistry
+			Oral Pathology
+			Dental Public Health
+
+
+		Nursing and Midwifery
+			Critical Care Nursing
+			Pediatric Nursing
+			Mental Health Nursing
+			Community Health Nursing
+			Nurse Midwifery
+			Nurse Anesthesia
+			Nurse Practitioner
+			Nursing Education
+
+
+		Allied Health Professions
+			Physical Therapy
+			Occupational Therapy
+			Speech-Language Pathology
+			Radiography
+			Respiratory Therapy
+			Medical Laboratory Science
+			Dietetics and Nutrition
+			Pharmacy Technician
+
+
+		Health Informatics
+			Clinical Informatics
+			Public Health Informatics
+			Consumer Health Informatics
+			Bioinformatics
+			Telehealth and Telemedicine
+			Health Information Management
+
+
+		Medical Research
+			Basic Research
+			Clinical Research
+			Translational Research
+			Epidemiological Research
+			Health Services Research
+			Qualitative Research
+
+
+		Behavioral and Mental Health Sciences
+			Clinical Psychology
+			Cognitive Psychology
+			Developmental Psychology
+			Social Psychology
+			Neuropsychology
+			Abnormal Psychology
+			Health Psychology
+			Forensic Psychology
+
+
+  - Arts
+    - Visual Arts
+    - Performing Arts
+    - Literary Arts
+    - Applied Arts
+    - Art History and Criticism
+  - Humanities
+    - History
+    - Philosophy
+    - Literature
+    - Linguistics
+    - Religious Studies
+    - Cultural Studies
+    - Archaeology
+  - Commerce and Business
+    - Accounting
+    - Finance
+    - Marketing
+    - Management
+    - Economics
+    - Entrepreneurship
+    - International Business
+  - Social Sciences
+    - Sociology
+    - Psychology
+    - Anthropology
+    - Political Science
+    - Geography
+    - Education
+  - Law and Legal Studies
+    - Constitutional Law
+    - Criminal Law
+    - Corporate Law
+    - International Law
+    - Legal Theory
+  - Education
+    - Pedagogy
+    - Curriculum Development
+    - Educational Technology
+    - Special Education
+    - Educational Administration
+  - Agriculture and Environmental Sciences
+    - Agronomy
+    - Horticulture
+    - Animal Science
+    - Environmental Management
+    - Food Science
+  - Architecture and Urban Planning
+    - Architectural Design
+    - Urban Planning
+    - Landscape Architecture
+    - Historic Preservation
+  - Media and Communication
+    - Journalism
+    - Mass Communication
+    - Film and Media Production
+    - Digital Media
+  - Sports and Exercise
+    - Indoor Sports
+    - Outdoor Sports
+    - Exercise Physiology
+    - Sports Psychology
+    - Biomechanics of Sports
+    - Sports Management
+  - Memes
+    - Meme Creation
+    - Meme Analysis
+    - Meme Marketing
+    - Meme Technology
+    - Fun Related Fields
+  - News Related
+    - Current Affairs
+    - Breaking News
+    - Politics
+    - Economy
+    - Science and Technology
+    - Entertainment News
+    - Sports News
+    - International News
