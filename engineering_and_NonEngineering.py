@@ -484,17 +484,23 @@ categories = {
                 ]
             }
         },
-        Computer_Science_and_Engineering": {
+
+"Computer/Software Engineering": {
     "Algorithms and Data Structures": {
         "Algorithm Design": [
             "Divide and Conquer",
             "Greedy Algorithms",
-            "Dynamic Programming"
+            "Dynamic Programming",
+            "Sorting Algorithms",
+            "Searching Algorithms",
+            "Graph Algorithms"
         ],
         "Data Structures": [
             "Arrays and Linked Lists",
             "Trees and Graphs",
-            "Hash Tables"
+            "Hash Tables",
+            "Stacks and Queues",
+            "Heaps and Priority Queues"
         ],
         "Complexity Analysis": [
             "Time Complexity",
@@ -506,7 +512,7 @@ categories = {
         "Software Development Methodologies": [
             "Agile Methodologies",
             "Waterfall Model",
-            "DevOps Practices"
+            "Scrum Practices"
         ],
         "Software Design": [
             "Object-Oriented Design",
@@ -522,7 +528,7 @@ categories = {
     "Systems Programming": {
         "Operating Systems": [
             "Process Management",
-            "Memory Management", 
+            "Memory Management",
             "File Systems"
         ],
         "Compilers and Interpreters": [
@@ -574,7 +580,9 @@ categories = {
         "Machine Learning": [
             "Supervised Learning",
             "Unsupervised Learning",
-            "Reinforcement Learning"
+            "Reinforcement Learning",
+            "Deep Learning",
+            "Neural Networks"
         ],
         "Knowledge Representation and Reasoning": [
             "Expert Systems",
@@ -585,6 +593,11 @@ categories = {
             "Text Processing",
             "Sentiment Analysis",
             "Machine Translation"
+        ],
+        "AI Ethics and Applications": [
+            "AI Ethics",
+            "Robotics AI",
+            "Model Evaluation"
         ]
     },
     "Computer Vision and Graphics": {
@@ -625,7 +638,8 @@ categories = {
         "Cybersecurity": [
             "Intrusion Detection",
             "Malware Analysis",
-            "Network Security"
+            "Network Security",
+            "Vulnerability Scanning"
         ],
         "Cryptography": [
             "Symmetric Encryption",
@@ -635,7 +649,8 @@ categories = {
         "Secure Systems Design": [
             "Secure Software Design",
             "Authentication Systems",
-            "Access Control"
+            "Access Control",
+            "Security Information and Event Management (SIEM)"
         ]
     },
     "Human-Computer Interaction": {
@@ -659,279 +674,148 @@ categories = {
         "Python": [
             "Basics and Syntax",
             "Data Types and Structures",
-            "Control Flow",
-            "Functions and Modules",
-            "Object-Oriented Features",
-            "Libraries and Frameworks",
-            "Applications and Use Cases"
+            "Libraries (Pandas, NumPy)",
+            "Web Frameworks (Django, Flask)"
         ],
         "Java": [
             "Basics and Syntax",
-            "Data Types and Structures",
-            "Control Flow",
-            "Functions and Modules",
-            "Object-Oriented Features",
-            "Libraries and Frameworks",
-            "Applications and Use Cases"
+            "Object-Oriented Programming",
+            "Java Virtual Machine (JVM)",
+            "Frameworks (Spring, Hibernate)"
         ],
         "JavaScript": [
             "Basics and Syntax",
-            "Data Types and Structures",
-            "Control Flow",
-            "Functions and Modules",
-            "Object-Oriented Features",
-            "Libraries and Frameworks",
-            "Applications and Use Cases"
+            "DOM Manipulation",
+            "Frameworks (React, Node.js)",
+            "Asynchronous Programming"
         ],
         "C++": [
             "Basics and Syntax",
-            "Data Types and Structures",
-            "Control Flow",
-            "Functions and Modules",
-            "Object-Oriented Features",
-            "Libraries and Frameworks",
-            "Applications and Use Cases"
+            "Memory Management",
+            "Standard Template Library (STL)",
+            "Performance Optimization"
         ],
         "C#": [
             "Basics and Syntax",
-            "Data Types and Structures",
-            "Control Flow",
-            "Functions and Modules",
-            "Object-Oriented Features",
-            "Libraries and Frameworks",
-            "Applications and Use Cases"
+            "NET Framework",
+            "Game Development (Unity)",
+            "Enterprise Applications"
         ],
         "SQL": [
-            "Basics and Syntax",
-            "Data Types and Structures",
-            "Control Flow",
-            "Functions and Modules",
-            "Object-Oriented Features",
-            "Libraries and Frameworks",
-            "Applications and Use Cases"
+            "Query Writing",
+            "Database Schema Design",
+            "Performance Tuning",
+            "Stored Procedures"
         ],
         "TypeScript": [
             "Basics and Syntax",
-            "Data Types and Structures",
-            "Control Flow",
-            "Functions and Modules",
-            "Object-Oriented Features",
-            "Libraries and Frameworks",
-            "Applications and Use Cases"
+            "Type Systems",
+            "Web Development (Angular)",
+            "Interoperability with JavaScript"
         ],
         "Go": [
             "Basics and Syntax",
-            "Data Types and Structures",
-            "Control Flow",
-            "Functions and Modules",
-            "Object-Oriented Features",
-            "Libraries and Frameworks",
-            "Applications and Use Cases"
+            "Concurrency (Goroutines)",
+            "Microservices",
+            "Cloud-Native Applications"
         ],
         "Rust": [
             "Basics and Syntax",
-            "Data Types and Structures",
-            "Control Flow",
-            "Functions and Modules",
-            "Object-Oriented Features",
-            "Libraries and Frameworks",
-            "Applications and Use Cases"
+            "Memory Safety",
+            "Systems Programming",
+            "WebAssembly"
         ],
         "PHP": [
             "Basics and Syntax",
-            "Data Types and Structures",
-            "Control Flow",
-            "Functions and Modules",
-            "Object-Oriented Features",
-            "Libraries and Frameworks",
-            "Applications and Use Cases"
+            "Web Development (Laravel)",
+            "Content Management Systems (WordPress)",
+            "Server-Side Scripting"
         ],
         "R": [
             "Basics and Syntax",
-            "Data Types and Structures",
-            "Control Flow",
-            "Functions and Modules",
-            "Object-Oriented Features",
-            "Libraries and Frameworks",
-            "Applications and Use Cases"
+            "Statistical Analysis",
+            "Data Visualization (ggplot2)",
+            "Data Science Applications"
         ],
         "Swift": [
             "Basics and Syntax",
-            "Data Types and Structures",
-            "Control Flow",
-            "Functions and Modules",
-            "Object-Oriented Features",
-            "Libraries and Frameworks",
-            "Applications and Use Cases"
+            "iOS Development",
+            "UI Frameworks (SwiftUI)",
+            "App Store Deployment"
         ],
         "Kotlin": [
             "Basics and Syntax",
-            "Data Types and Structures",
-            "Control Flow",
-            "Functions and Modules",
-            "Object-Oriented Features",
-            "Libraries and Frameworks",
-            "Applications and Use Cases"
+            "Android Development",
+            "Interoperability with Java",
+            "Coroutines"
         ],
         "Ruby": [
             "Basics and Syntax",
-            "Data Types and Structures",
-            "Control Flow",
-            "Functions and Modules",
-            "Object-Oriented Features",
-            "Libraries and Frameworks",
-            "Applications and Use Cases"
+            "Web Development (Rails)",
+            "Scripting",
+            "Automation"
         ],
         "Scala": [
             "Basics and Syntax",
-            "Data Types and Structures",
-            "Control Flow",
-            "Functions and Modules",
-            "Object-Oriented Features",
-            "Libraries and Frameworks",
-            "Applications and Use Cases"
+            "Functional Programming",
+            "Big Data (Apache Spark)",
+            "Concurrency (Akka)"
         ],
         "MATLAB": [
             "Basics and Syntax",
-            "Data Types and Structures",
-            "Control Flow",
-            "Functions and Modules",
-            "Object-Oriented Features",
-            "Libraries and Frameworks",
-            "Applications and Use Cases"
+            "Numerical Computing",
+            "Simulation",
+            "Signal Processing"
         ],
         "Dart": [
             "Basics and Syntax",
-            "Data Types and Structures",
-            "Control Flow",
-            "Functions and Modules",
-            "Object-Oriented Features",
-            "Libraries and Frameworks",
-            "Applications and Use Cases"
+            "Mobile Development (Flutter)",
+            "Web Applications",
+            "Cross-Platform Development"
         ],
         "Julia": [
             "Basics and Syntax",
-            "Data Types and Structures",
-            "Control Flow",
-            "Functions and Modules",
-            "Object-Oriented Features",
-            "Libraries and Frameworks",
-            "Applications and Use Cases"
+            "High-Performance Computing",
+            "Scientific Computing",
+            "Data Analysis"
         ],
         "Bash": [
-            "Basics and Syntax",
-            "Data Types and Structures",
-            "Control Flow",
-            "Functions and Modules",
-            "Object-Oriented Features",
-            "Libraries and Frameworks",
-            "Applications and Use Cases"
+            "Scripting Basics",
+            "Automation Scripts",
+            "System Administration",
+            "Command-Line Tools"
         ],
         "Assembly": [
-            "Basics and Syntax",
-            "Data Types and Structures",
-            "Control Flow",
-            "Functions and Modules",
-            "Object-Oriented Features",
-            "Libraries and Frameworks",
-            "Applications and Use Cases"
+            "Low-Level Programming",
+            "Instruction Sets",
+            "Hardware Interfacing",
+            "Optimization Techniques"
         ]
     },
     "Development": {
         "Web Development": [
-            "Front-end Development",
-            "Back-end Development",
-            "Full-stack Development",
-            "Frameworks (React, Angular, Vue)",
+            "Front-End Development (HTML, CSS, JavaScript)",
+            "Back-End Development (Node.js, Django)",
+            "Full-Stack Development",
             "APIs and Microservices"
         ],
         "Mobile Development": [
-            "Android Development",
-            "iOS Development",
-            "Cross-platform Development",
-            "Frameworks (Flutter, React Native)",
+            "Android Development (Kotlin, Java)",
+            "iOS Development (Swift)",
+            "Cross-Platform Development (Flutter, React Native)",
             "App Deployment"
         ],
         "Game Development": [
-            "2D Games",
-            "3D Games",
+            "2D and 3D Games",
             "Game Engines (Unity, Unreal)",
             "Physics and Animation",
-            "Multiplayer Features"
+            "Multiplayer Systems"
         ],
         "Desktop Development": [
-            "GUI Applications",
+            "GUI Applications (Electron, WPF)",
             "Command-Line Tools",
-            "Frameworks (Electron, WPF)",
-            "Cross-platform Tools"
-        ]
-    },
-    "Cybersecurity": {
-        "Threat Detection": [
-            "Intrusion Detection Systems",
-            "Malware Detection",
-            "Vulnerability Scanning"
-        ],
-        "Security Practices": [
-            "Secure Coding",
-            "Access Control Models",
-            "Incident Response"
-        ],
-        "Tools and Technologies": [
-            "Firewalls",
-            "Encryption Tools",
-            "Security Information and Event Management (SIEM)"
-        ]
-    },
-    "AI/ML": {
-        "Artificial Intelligence Fundamentals": [
-            "AI Ethics",
-            "AI Algorithms",
-            "Expert Systems"
-        ],
-        "Machine Learning Techniques": [
-            "Deep Learning",
-            "Neural Networks",
-            "Model Evaluation"
-        ],
-        "Applications": [
-            "Computer Vision",
-            "Natural Language Processing",
-            "Robotics AI"
-        ]
-    },
-    "Blockchain": {
-        "Fundamentals": [
-            "Distributed Ledger Technology",
-            "Consensus Mechanisms",
-            "Smart Contracts"
-        ],
-        "Technologies": [
-            "Bitcoin",
-            "Ethereum",
-            "Hyperledger"
-        ],
-        "Applications": [
-            "Cryptocurrencies",
-            "Supply Chain Management",
-            "Decentralized Finance (DeFi)"
-        ]
-    },
-    "Quantum Computing": {
-        "Basics": [
-            "Qubits and Superposition",
-            "Entanglement",
-            "Quantum Gates"
-        ],
-        "Algorithms": [
-            "Shor's Algorithm",
-            "Grover's Algorithm",
-            "Quantum Machine Learning"
-        ],
-        "Hardware and Applications": [
-            "Quantum Hardware",
-            "Quantum Cryptography",
-            "Quantum Simulation"
+            "Cross-Platform Development (Qt)",
+            "Desktop App Optimization"
         ]
     },
     "DevOps": {
@@ -952,21 +836,38 @@ categories = {
             "Security in DevOps (DevSecOps)"
         ]
     },
-    "DSA": {
+    "Blockchain": {
+        "Fundamentals": [
+            "Distributed Ledger Technology",
+            "Consensus Mechanisms (Proof of Work, Proof of Stake)",
+            "Smart Contracts"
+        ],
+        "Technologies": [
+            "Bitcoin",
+            "Ethereum",
+            "Hyperledger"
+        ],
+        "Applications": [
+            "Cryptocurrencies",
+            "Supply Chain Management",
+            "Decentralized Finance (DeFi)"
+        ]
+    },
+    "Quantum Computing": {
+        "Fundamentals": [
+            "Qubits and Superposition",
+            "Entanglement",
+            "Quantum Gates"
+        ],
         "Algorithms": [
-            "Sorting Algorithms",
-            "Searching Algorithms",
-            "Graph Algorithms"
+            "Shor's Algorithm",
+            "Grover's Algorithm",
+            "Quantum Machine Learning"
         ],
-        "Data Structures": [
-            "Stacks and Queues",
-            "Linked Lists",
-            "Heaps and Priority Queues"
-        ],
-        "Advanced Topics": [
-            "Dynamic Programming",
-            "Greedy Methods",
-            "Divide and Conquer"
+        "Applications": [
+            "Quantum Cryptography",
+            "Quantum Simulation",
+            "Quantum Hardware Development"
         ]
     },
     "Data Science": {
@@ -980,10 +881,10 @@ categories = {
             "Machine Learning Models",
             "Feature Engineering"
         ],
-        "Tools and Visualization": [
+        "Tools": [
             "Python (Pandas, Scikit-learn)",
             "R",
-            "Data Visualization (Matplotlib, Seaborn)"
+            "Jupyter Notebooks"
         ]
     },
     "Data Analytics": {
@@ -998,13 +899,14 @@ categories = {
             "Business Intelligence"
         ],
         "Tools": [
-            "Excel",
             "Tableau",
             "Power BI",
+            "Excel",
             "SQL for Analytics"
         ]
     }
-},
+}
+,
         "Aerospace Engineering": {
             "Aerodynamics": {
                 "Fluid Dynamics": [
