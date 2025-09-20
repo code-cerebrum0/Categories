@@ -274,19 +274,18 @@ Science
 
 
   - Arts
-    - Visual Arts
-    - Performing Arts
-    - Literary Arts
-    - Applied Arts
-    - Art History and Criticism
+    - Visual Arts     // Midjourney v6 / DALL-E 3
+    - Performing Arts   // Claude-3.5-Sonnet
+    - Literary Arts   // GPT-4o
+    - Applied Arts    // Gpt-4o
+    - Art     //Gemini 2.5 Pro / GPT-4V
+
   - Humanities
-    - History
-    - Philosophy
-    - Literature
-    - Linguistics
-    - Religious Studies
-    - Cultural Studies
-    - Archaeology
+    -History    // Claude-3.5-sonnet
+    - Philosophy      // Claude-3.5-sonnet
+    - Literature      // Claude-3.5-sonnet
+    - Linguistics   // GPT-4o
+    - Religious Studies     // Claude-3.5-sonnet
   - Commerce and Business
     - Accounting		// Claude3
     - Finance			// claude3
@@ -296,56 +295,48 @@ Science
     - Entrepreneurship	// gpt-4 turbo
     - International Business	// claude 3
   - Social Sciences
-    - Sociology
-    - Psychology
-    - Anthropology
-    - Political Science
-    - Geography
-    - Education
+    - Sociology           // CLaude-3.5-Sonnet
+    - Psychology     // GPT-4o
+    - Anthropology    // CLaude-3.5-Sonnet
+    - Political Science   // Clauude-3.5-sonnet
+    - Geography    // gemini-2.5-pro
+    - Education    // GPT-4o
   - Law and Legal Studies
-    - Constitutional Law
-    - Criminal Law
-    - Corporate Law
-    - International Law
-    - Legal Theory
+    - Constitutional    // Claude-4-opus
+    - Criminal Law    // GPT-5
+    - Corporate Law   // BloombergGPT
+    - International Law   // Gpt-4o
+    - Legal Theory    // CLaude-3.5-Sonnet
   - Education
-    - Pedagogy
-    - Curriculum Development
-    - Educational Technology
-    - Special Education
-    - Educational Administration
+    - Pedagogy        // LearnLM
+    - Curriculum Development    // Gemini-2.5-Pro
+    - Educational Technology    // Grok-3
+    - Special Education   // PsycoLLM
+    - Educational Administration    // ClaudeSonnet-4
   - Agriculture and Environmental Sciences
-    - Agronomy
-    - Horticulture
-    - Animal Science
-    - Environmental Management
-    - Food Science
+    - Agronomy    // Deepseek V3
+    - Horticulture    // GPT-4o
+    - Animal Science    // VetLLM
+    - Environmental Management    // GPT-5
+    - Food Science      // FoodSky
   - Architecture and Urban Planning
-    - Architectural Design
-    - Urban Planning
-    - Landscape Architecture
-    - Historic Preservation
+    - Architectural Design      // Gpt-4v
+    - Urban Planning    // UrbanPlanBench 
+    - Landscape Architecture    // Claude-3.7-Sonnet
+    - Historic Preservation   // Gpt-4.5
   - Media and Communication
-    - Journalism
-    - Mass Communication
-    - Film and Media Production
-    - Digital Media
-  - Sports and Exercise
-    - Indoor Sports
-    - Outdoor Sports
-    - Exercise Physiology
-    - Sports Psychology
-    - Biomechanics of Sports
-    - Sports Management
+    - Journalism    // Gpt-5
+    - Mass Communication    // Claude-4-opus
+    - Film and Media Production   // RunwayML
+    - Digital Media       // Gemini-2.5-pro
+
+  - Sports and Exercise   // GPT-5 | PH-LLM
+
+
   - Memes
-    - Meme Creation
-    - Meme Analysis
-  - News Related
-    - Current Affairs
-    - Breaking News
-    - Politics
-    - Economy
-    - Science and Technology
-    - Entertainment News
-    - Sports News
-    - International News
+    - Meme Creation   // Grok - 3
+    - Meme Analysis   // GPT-4o
+    - Meme Marketing   // Grok- 3
+  
+  
+  - News Related    // Llama 4 Scout
