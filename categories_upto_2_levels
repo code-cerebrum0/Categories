@@ -192,17 +192,17 @@ Science
 			2.4.5. Seismology     // GPT-4 with interpreter
 			2.4.6. Volcanology    // Gemini 1.5 Pro
 		2.5. Astronomy
-			2.5.1. Astrophysics   
-			2.5.2. Cosmology
-			2.5.3. Planetary Science
-			2.5.4. Stellar Astronomy
-			2.5.5. Galactic Astronomy
+			2.5.1. Astrophysics   // Astro-Sage-LLama-3.1-70B
+			2.5.2. Cosmology    // Astro-Sage-LLama-3.1-70B
+			2.5.3. Planetary    // IBM-NASA SciBERT
+			2.5.4. Stellar Astronomy    // StarWhsiperLC
+			2.5.5. Galactic Astronomy   // AstroLLama-2-70B
 		2.6. Environmental Science
-			2.6.1. Conservation Biology
-			2.6.2. Climate Science
-			2.6.3. Environmental Chemistry
-			2.6.4. Hydrology
-			2.6.5. Soil Science
+			2.6.1. Conservation Biology   // BioMistral-7B
+			2.6.2. Climate Science    // Grok 4
+			2.6.3. Environmental Chemistry    // ChemCrow
+			2.6.4. Hydrology      // Water-GPT
+			2.6.5. Soil Science   // Claude-3.5-Sonnet
 
 
 	
