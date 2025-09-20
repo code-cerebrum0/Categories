@@ -132,69 +132,67 @@
 
 	Applied Mathematics 
 		2.1. Statistics and Probability 
-			2.1.1. Descriptive Statistics 
-			2.1.2. Inferential Statistics 
-			2.1.3. Probability Theory
+			2.1.1. Descriptive Statistics     // GPT-5
+			2.1.2. Inferential Statistics     // GPT-5
+			2.1.3. Probability Theory     // grok --4
 			 2.1.4. Bayesian Statistics 
 		2.2. Mathematical Modeling 
-			2.2.1. Dynamical Systems 
-			2.2.2. Operations Research 
-			2.2.3. Mathematical Biology 
+			2.2.1. Dynamical Systems    // GPT-4o
+			2.2.2. Operations Research    // Gemini-2.5-pro
+			2.2.3. Mathematical Biology     // Claude 4 opus
 		2.3. Numerical Analysis 
-			2.3.1. Numerical Methods 
-			2.3.2. Computational Algorithms 
-			2.3.3. Error Analysis 
+			2.3.1. Numerical Methods      // DeepSeekR1
+			2.3.2. Computational Algorithms     // Gemini 2.5 Pro
+			2.3.3. Error Analysis       // CLaude 4 opus
 		2.4. Cryptography 
-			2.4.1. Encryption Methods 
-			2.4.2. Coding Theory 
-			2.4.3. Cryptographic Protocols 
+			2.4.1. Encryption Methods       // Claude-3.5 Sonnet
+			2.4.2. Coding Theory        // Gemini Deep Think
+			2.4.3. Cryptographic Protocols    // GPT-4o
 		2.5. Optimization
-			 2.5.1. Linear Programming 
-			2.5.2. Nonlinear Programming 
-			2.5.3. Convex Optimization 
-		2.6. Game Theory 
-			2.6.1. Non-Cooperative Game Theory
-			 2.6.2. Cooperative Game Theory 
-			2.6.3. Evolutionary Game Theory 
+			 2.5.1. Linear Programming    // GPT-5
+			2.5.2. Nonlinear Programming    // Gemini-2.5-Pro
+			2.5.3. Convex Optimization    // OpenAI o3
+		2.6. Game Theory      // Claude-3-Opus
+
 		2.7. Information Theory
-			 2.7.1. Entropy and Information Measures 
-			2.7.2. Communication Theory 
-			2.7.3. Data Compression
+			 2.7.1. Entropy and Information Measures    // Claude 3 opus
+			2.7.2. Communication Theory     // Gemini 1.5 pro
+			2.7.3. Data Compression         // Gpt-4o
 
 
 Science
 	Natural Sciences
 		2.1. Physics
-			2.1.1. Classical Mechanics
-			2.1.2. Quantum Mechanics
-			2.1.3. Thermodynamics
-			2.1.4. Electromagnetism
-			2.1.5. Relativity
-			2.1.6. Particle Physics
+			2.1.1. Classical Mechanics    // Gpt-4o | Gemini 1.5 pro
+			2.1.2. Quantum Mechanics    // GPT-4o | Claude 3.5 Sonnet
+			2.1.3. Thermodynamics       //Gpt-4o
+			2.1.4. Electromagnetism   // GPT-4o | Grok 4
+			2.1.5. Relativity     // Claude 3 opus
+			2.1.6. Particle Physics   // Gemini 1.5 Pro | Xiwu
 		2.2. Chemistry
-			2.2.1. Organic Chemistry
-			2.2.2. Inorganic Chemistry
-			2.2.3. Physical Chemistry
-			2.2.4. Analytical Chemistry
-			2.2.5. Biochemistry
-			2.2.6. Polymer Chemistry
+			2.2.1. Organic Chemistry      // Chemma
+			2.2.2. Inorganic Chemistry    // ChemDFM
+			2.2.3. Physical Chemistry   // ChemCrow (Gpt4 based agent)
+			2.2.4. Analytical Chemistry   // gpt-4
+			2.2.5. Biochemistry           // Tx-LLM
+			2.2.6. Polymer Chemistry    // nach0
 		2.3. Biology (Life Sciences)
-			2.3.1. Microbiology
-			2.3.2. Botany
-			2.3.3. Zoology
-			2.3.4. Genetics
-			2.3.5. Ecology
-			2.3.6. Evolutionary Biology
-			2.3.7. Molecular Biology
+			2.3.1. Microbiology    // GPT-4o | Claude 3.5 Sonnet
+			2.3.2. Botany       // Gemini 1.5 Pro
+			2.3.3. Zoology    //  Claude 3.5 Sonnet
+			2.3.4. Genetics   // Claude 3.5 Sonnet
+			2.3.5. Ecology    // Mistral Large  
+			2.3.6. Evolutionary Biology   // Claude 3.5 Sonnet
+			2.3.7. Molecular Biology    // GPT-4o 
 		2.4. Earth Sciences
-			2.4.1. Geology
-			2.4.2. Oceanography
-			2.4.3. Meteorology
-			2.4.4. Paleontology
-			2.4.5. Seismology
-			2.4.6. Volcanology
+			2.4.1. Geology      // Gemini 1.5 Pro
+			2.4.2. Oceanography   // Claude 3 Opus
+			2.4.3. Meteorology  // GPT-4o
+			2.4.4. Paleontology     // Claude 3 Sonnet
+			2.4.5. Seismology     // GPT-4 with interpreter
+			2.4.6. Volcanology    // Gemini 1.5 Pro
 		2.5. Astronomy
-			2.5.1. Astrophysics
+			2.5.1. Astrophysics   
 			2.5.2. Cosmology
 			2.5.3. Planetary Science
 			2.5.4. Stellar Astronomy
@@ -272,12 +270,6 @@ Science
 		Medical Research		// CLaude | GPT-4
 
 			
-			
-maths ke models
-
-medical ke models
-
-science ke models
 
 
 
